@@ -56,8 +56,6 @@ A recent Computer Science graduate with a solid foundation in problem-solving an
 
 ## ⚙️ Skills & Tools
 
-## ⚙️ Skills & Tools
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-red) ![C](https://img.shields.io/badge/-C-blue)
 
